@@ -1,0 +1,11 @@
+# data-structures-and-object-oriented-programming
+
+![language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
+
+Course materials for **data structures and object oriented programming**.
+
+## 📂 Course Assignments
+
+- **[HW1](HW1)**: This assignment, "Programming Assignment One" for the "Data Structures and Object-oriented Programming" course, aims for students to develop two core components for a system that draws mathematical curves. The primary objective is to implement the `CURVE_FUNCTION` and `GRAPH_MANAGER` classes using a provided template, applying object-oriented programming principles. The system will display various curve types based on user interactions, showcasing their properties such as extreme points and boundary points, and summary statistics in the window's top bar.
+- **[HW2](HW2)**: The development of interactive graphics applications serves as a cornerstone for teaching foundational principles in Object-Oriented Programming (OOP) and Data Structures. This project addresses the challenge of creating a versatile yet robust 2D painting system, `SIMPLE_PAINTER`, integrated into a larger `SOGLFramework`. The primary goal is to provide a platform for demonstrating sophisticated pixel manipulation, brush mechanics, and seamless subsystem integration, all while maintaining high numerical precision and stability. Existing frameworks often lack explicit guidance for robust boundary handling and modular subsystem design, prompting the need for a self-contained, extensible painting component capable of complex drawing operations without compromising system integrity. Our work focuses on building a painter module that not only performs fundamental graphic operations but also exemplifies rigorous software engineering practices crucial for real-world graphics development.
+- **[HW3](HW3)**: This project involves the design and implementation of a graph system using C++ with a focus on data structures and object-oriented programming. The primary objective is to develop a system capable of manipulating graphs, which are defined as a set of nodes (V) and edges (E). Key constraints include a maximum of 1000 nodes and 1000 edges, a maximum node degree of 1000, and no support for parallel edges. Node positions are confined to the x-z plane, with the y-coordinate always set to zero.
